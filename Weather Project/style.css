@@ -1,0 +1,16 @@
+
+#main-header {
+	padding-top: 25px;
+	color: white;
+	background: black;
+
+}
+
+#main-footer {
+	color: white;
+	background: grey;
+}
+
+li {
+	display:inline;
+}
